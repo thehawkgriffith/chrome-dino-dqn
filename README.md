@@ -1,5 +1,5 @@
 # chrome-dino-dqn
-A Double-Deep-Q-Learning Network implementation to play the Chrome T-Rex game.
+A Deep-Q-Learning Network implementation to play the Chrome T-Rex game.
 
 
 _Used the environment made by "https://github.com/elvisyjlin/gym-chrome-dino"._
